@@ -132,8 +132,4 @@ public class Interval {
   }
 }
 
-<<<<<<< HEAD
 // This is from master
-=======
-// This is from testBranch
->>>>>>> testBranch
