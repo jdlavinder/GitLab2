@@ -1,4 +1,4 @@
-package edu.odu.cs;
+package gaps;
 
 import java.util.NoSuchElementException;
 
